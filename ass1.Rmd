@@ -1,0 +1,22 @@
+---
+title: "ass1"
+author: "Priya"
+date: "1/19/2019"
+output: html_document
+---
+
+# Assignment 1
+ welcome to **Western Illinois University** 
+ 
+ 
+ 
+ ***
+ 
+ * courses:
+    + computer science
+    + mathematics
+    + information technology
+    + biology
+ 
+
+[link](http://www.wiu.edu/graduate_studies/catalog/)
